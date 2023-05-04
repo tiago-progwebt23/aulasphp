@@ -61,12 +61,12 @@ echo "<p>{$livro["titulo"]}</p>";
 <h2>Analisando a estrutura de arrays
 usando print_r() e var_dump()</h2>
 
+<!-- Comandos sem formatação -->
 <?=print_r($bandas)?>
 <br> <br>
 <?=var_dump($bandas)?>
 
-<!-- Tag <pre> formata
-e torna mais legível a saída -->
+<!-- Com formatação usando tag <pre>  -->
 <pre><?=print_r($bandas)?></pre>
 <pre><?=var_dump($bandas)?></pre>
 
