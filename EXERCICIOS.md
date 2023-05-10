@@ -1,5 +1,26 @@
 # Exercícios de PHP
 
+## Exercício 4
+
+Crie dois arquivos: **exercicio04-formulario.html** e **exercicio04-dados.php**
+
+No arquivo **exercicio04-formulario.html**, faça um formulário para **simulação de cadastro** de produtos com os campos:
+
+- Nome do produto - `input text`
+- Fabricante - `select/option` com pelo menos 4 opções/nomes de fabricantes
+- Preço - `input number` com valor atributo mínimo de 100 (`min="100"`) e máximo de 10000 (`max="10000"`), além de suporte à 2 casas decimais para os centavos (`step="0.01"`)
+- Descrição - `textarea`
+- Botão de submit
+
+No arquivo **exercicio04-dados.php**, faça a programação de processamento do formulário considerando o envio/recebimento via POST e mostre os dados enviados usando tags HTML.
+
+### DESAFIO FABRICANTE
+
+- Crie um array contendo uma lista com os nomes de 4 fabricantes
+- Usando um `loop`, faça as opções do `select` serem carregadas a partir dos dados do array 
+
+
+---
 
 ## Exercício 3
 
