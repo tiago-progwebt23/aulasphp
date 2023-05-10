@@ -2,9 +2,9 @@
 
 ## Exercício 4
 
-Crie dois arquivos: **exercicio04-formulario.html** e **exercicio04-dados.php**
+Crie dois arquivos: **exercicio04-formulario.php** e **exercicio04-dados.php**
 
-No arquivo **exercicio04-formulario.html**, faça um formulário para **simulação de cadastro** de produtos com os campos:
+No arquivo **exercicio04-formulario.php**, faça um formulário para **simulação de cadastro** de produtos com os campos:
 
 - Nome do produto - `input text`
 - Fabricante - `select/option` com pelo menos 4 opções/nomes de fabricantes
